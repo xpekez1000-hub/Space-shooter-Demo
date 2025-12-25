@@ -8,6 +8,8 @@ public class Shoot : MonoBehaviour
     public float shootingInterval;
     private float lastBulletTime;
 
+    public Vector3 bulletOffset;
+
     // Update is called once per frame
     void Update()
     {
@@ -18,10 +20,22 @@ public class Shoot : MonoBehaviour
                 ShootBullet();
                 lastBulletTime = Time.time;
             }
-        } 
+        }
+        if (Input.GetMouseButton(0))
+        {
+            UpdateFiring();
+        }
     }
     private void ShootBullet()
     {
-        Instantiate(bulletPrefab, transform.position, transform.rotation);
+          var bullet = Instantiate(bulletPrefab, transform.position, transform.rotation);
+    }
+    private void UpdateFiring()
+    {
+        if (Time.time - lastBulletTime > shootingInterval)
+        {
+            ShootBullet();
+            lastBulletTime = Time.time;
+        }
     }
 }

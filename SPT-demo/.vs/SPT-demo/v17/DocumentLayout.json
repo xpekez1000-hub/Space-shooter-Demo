@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\New folder\\Demo\\SPT-demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\New folder\\Demo\\SPT-demo\\Assets\\Space Shooter Template FREE\\Scripts\\Shoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Space Shooter Template FREE\\Scripts\\Shoot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\New folder\\Demo\\SPT-demo\\Assets\\Space Shooter Template FREE\\Scripts\\PlayerShooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Space Shooter Template FREE\\Scripts\\PlayerShooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\New folder\\Demo\\SPT-demo\\Assets\\Space Shooter Template FREE\\Scripts\\Wave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Space Shooter Template FREE\\Scripts\\Wave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\New folder\\Demo\\SPT-demo\\Assets\\Space Shooter Template FREE\\Scripts\\Shooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Space Shooter Template FREE\\Scripts\\Shooting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\New folder\\Demo\\SPT-demo\\Assets\\Space Shooter Template FREE\\Scripts\\NewBehaviourScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Space Shooter Template FREE\\Scripts\\NewBehaviourScript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\New folder\\Demo\\SPT-demo\\Assets\\Space Shooter Template FREE\\Scripts\\Bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Space Shooter Template FREE\\Scripts\\Bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\New folder\\Demo\\SPT-demo\\Assets\\Space Shooter Template FREE\\Scripts\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Space Shooter Template FREE\\Scripts\\PlayerMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\New folder\\Demo\\SPT-demo\\Assets\\Space Shooter Template FREE\\Scripts\\Blinking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Space Shooter Template FREE\\Scripts\\Blinking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\New folder\\Demo\\SPT-demo\\Assets\\ShowLog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\ShowLog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Shoot.cs",
+              "DocumentMoniker": "E:\\New folder\\Demo\\SPT-demo\\Assets\\Space Shooter Template FREE\\Scripts\\Shoot.cs",
+              "RelativeDocumentMoniker": "Assets\\Space Shooter Template FREE\\Scripts\\Shoot.cs",
+              "ToolTip": "E:\\New folder\\Demo\\SPT-demo\\Assets\\Space Shooter Template FREE\\Scripts\\Shoot.cs",
+              "RelativeToolTip": "Assets\\Space Shooter Template FREE\\Scripts\\Shoot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T19:10:34.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Wave.cs",
+              "DocumentMoniker": "E:\\New folder\\Demo\\SPT-demo\\Assets\\Space Shooter Template FREE\\Scripts\\Wave.cs",
+              "RelativeDocumentMoniker": "Assets\\Space Shooter Template FREE\\Scripts\\Wave.cs",
+              "ToolTip": "E:\\New folder\\Demo\\SPT-demo\\Assets\\Space Shooter Template FREE\\Scripts\\Wave.cs",
+              "RelativeToolTip": "Assets\\Space Shooter Template FREE\\Scripts\\Wave.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T19:09:59.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Shooting.cs",
+              "DocumentMoniker": "E:\\New folder\\Demo\\SPT-demo\\Assets\\Space Shooter Template FREE\\Scripts\\Shooting.cs",
+              "RelativeDocumentMoniker": "Assets\\Space Shooter Template FREE\\Scripts\\Shooting.cs",
+              "ToolTip": "E:\\New folder\\Demo\\SPT-demo\\Assets\\Space Shooter Template FREE\\Scripts\\Shooting.cs",
+              "RelativeToolTip": "Assets\\Space Shooter Template FREE\\Scripts\\Shooting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T19:09:55.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerShooting.cs",
+              "DocumentMoniker": "E:\\New folder\\Demo\\SPT-demo\\Assets\\Space Shooter Template FREE\\Scripts\\PlayerShooting.cs",
+              "RelativeDocumentMoniker": "Assets\\Space Shooter Template FREE\\Scripts\\PlayerShooting.cs",
+              "ToolTip": "E:\\New folder\\Demo\\SPT-demo\\Assets\\Space Shooter Template FREE\\Scripts\\PlayerShooting.cs",
+              "RelativeToolTip": "Assets\\Space Shooter Template FREE\\Scripts\\PlayerShooting.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEEAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T18:35:37.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NewBehaviourScript.cs",
+              "DocumentMoniker": "E:\\New folder\\Demo\\SPT-demo\\Assets\\Space Shooter Template FREE\\Scripts\\NewBehaviourScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Space Shooter Template FREE\\Scripts\\NewBehaviourScript.cs",
+              "ToolTip": "E:\\New folder\\Demo\\SPT-demo\\Assets\\Space Shooter Template FREE\\Scripts\\NewBehaviourScript.cs",
+              "RelativeToolTip": "Assets\\Space Shooter Template FREE\\Scripts\\NewBehaviourScript.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T18:23:56.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "E:\\New folder\\Demo\\SPT-demo\\Assets\\Space Shooter Template FREE\\Scripts\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\Space Shooter Template FREE\\Scripts\\Bullet.cs",
+              "ToolTip": "E:\\New folder\\Demo\\SPT-demo\\Assets\\Space Shooter Template FREE\\Scripts\\Bullet.cs",
+              "RelativeToolTip": "Assets\\Space Shooter Template FREE\\Scripts\\Bullet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T17:35:31.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "E:\\New folder\\Demo\\SPT-demo\\Assets\\Space Shooter Template FREE\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Space Shooter Template FREE\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "E:\\New folder\\Demo\\SPT-demo\\Assets\\Space Shooter Template FREE\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Space Shooter Template FREE\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T18:32:01.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Blinking.cs",
+              "DocumentMoniker": "E:\\New folder\\Demo\\SPT-demo\\Assets\\Space Shooter Template FREE\\Scripts\\Blinking.cs",
+              "RelativeDocumentMoniker": "Assets\\Space Shooter Template FREE\\Scripts\\Blinking.cs",
+              "ToolTip": "E:\\New folder\\Demo\\SPT-demo\\Assets\\Space Shooter Template FREE\\Scripts\\Blinking.cs",
+              "RelativeToolTip": "Assets\\Space Shooter Template FREE\\Scripts\\Blinking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T18:14:27.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ShowLog.cs",
+              "DocumentMoniker": "E:\\New folder\\Demo\\SPT-demo\\Assets\\ShowLog.cs",
+              "RelativeDocumentMoniker": "Assets\\ShowLog.cs",
+              "ToolTip": "E:\\New folder\\Demo\\SPT-demo\\Assets\\ShowLog.cs",
+              "RelativeToolTip": "Assets\\ShowLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-23T17:34:39.466Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
