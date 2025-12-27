@@ -28,7 +28,7 @@ public class Shoot : MonoBehaviour
     }
     private void ShootBullet()
     {
-          var bullet = Instantiate(bulletPrefab, transform.position, transform.rotation);
+        var bullet = Instantiate(bulletPrefab, transform.position + bulletOffset, transform.rotation);
     }
     private void UpdateFiring()
     {
