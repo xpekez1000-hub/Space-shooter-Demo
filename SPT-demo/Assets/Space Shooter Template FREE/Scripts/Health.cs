@@ -9,12 +9,14 @@ public class Health : MonoBehaviour
     private int healthPoint;
     public int defaultHealthPoint;
     private void Start() => healthPoint = defaultHealthPoint;
+    public System.Action onDead;
 
     protected virtual void Die()
     {
         var explosion = Instantiate(explosionPrefab, transform.position, transform.rotation);
         Destroy(explosion, 1);
         Destroy(gameObject);
+        onDead?.Invoke();
     }
     public void TakeDamage(int damage)
     {
