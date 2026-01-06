@@ -6,10 +6,21 @@ public class Health : MonoBehaviour
 {
     public GameObject explosionPrefab;
     
-    private int healthPoint;
+    public int healthPoint;
     public int defaultHealthPoint;
-    private void Start() => healthPoint = defaultHealthPoint;
+    
     public System.Action onDead;
+
+    
+    public System.Action onHealthChanged;
+
+    
+
+    private void Start()
+    {
+        healthPoint = defaultHealthPoint;
+        onHealthChanged?.Invoke();
+    }
 
     protected virtual void Die()
     {
